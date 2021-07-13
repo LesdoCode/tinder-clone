@@ -1,0 +1,36 @@
+.swipeButtons {
+    display: flex;
+    bottom:5vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    position:fixed;
+}
+
+.iconButton {
+    padding: 10px 20px 20px 10px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+
+.swipedButtons__repeat {
+    color: #f5b748;
+}
+
+.swipedButtons__left {
+    color: #ec5e6f;
+}
+
+.swipedButtons__star {
+    color: #62b4f9;
+}
+
+.swipedButtons__right {
+    color: #76e2b3;
+}
+
+.swipedButtons__lightning {
+    color: #915dd1;
+}
